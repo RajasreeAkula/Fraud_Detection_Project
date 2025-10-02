@@ -90,8 +90,6 @@ Applied unsupervised anomaly detection (Isolation Forest) in real data
 
 Generated business-driven insights via SQL & visualization
 
-Project Team 1.Aastha 2.Aditya Bajantri 3.Rajasri 4.Aman Singh
-
 Integrated Excel, SQL, Python, and Power BI into a single fraud analytics workflow
 
 Improved ability to explain fraud detection findings to both technical and business stakeholders
