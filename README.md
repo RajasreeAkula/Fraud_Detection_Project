@@ -1,4 +1,4 @@
-# Fraud_Detection_Project
+# FraudDetection_Project
 Real-world financial fraud detection simulation analyzing transactions, detecting anomalies, and visualizing flagged patterns
 
 **Project Overview**
