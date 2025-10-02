@@ -94,4 +94,4 @@ Integrated Excel, SQL, Python, and Power BI into a single fraud analytics workfl
 
 Improved ability to explain fraud detection findings to both technical and business stakeholders
 
-Project Team 1.Aastha 2.Aditya Bajantri 3. Akula Rajasree 4.Aman Singh
+Project Team 1.Aastha 2.Aditya Bajantri 3.Akula Rajasree 4.Aman Singh
