@@ -28,7 +28,7 @@ Derived features: log-transformed transaction amount, transaction time (hour, da
 
 Pivot tables & charts for early EDA
 
-3. Python ML – Anomaly Detection
+2. Python ML – Anomaly Detection
    
 Preprocessed data (scaling, encoding categorical variables)
 
@@ -38,7 +38,7 @@ Created Anomaly_Flag (1 = Fraud, 0 = Normal) and anomaly scores
 
 Detected ~6% anomalies (~30/503 samples flagged)
 
-5. SQL – Business Insights
+3. SQL – Business Insights
 
 Total transactions analyzed: 2,512
 
@@ -54,7 +54,7 @@ Doctors held higher account balances; Students generated most revenue
 
 High login attempts strongly correlated with high transaction amounts
 
-6. Power BI – Fraud Monitoring Dashboard
+4. Power BI – Fraud Monitoring Dashboard
 
 Designed interactive dashboard with KPIs:
 
@@ -92,8 +92,8 @@ Generated business-driven insights via SQL & visualization
 
 Project Team 1.Aastha 2.Aditya Bajantri 3.Rajasri 4.Aman Singh
 
-
-
 Integrated Excel, SQL, Python, and Power BI into a single fraud analytics workflow
 
 Improved ability to explain fraud detection findings to both technical and business stakeholders
+
+Project Team 1.Aastha 2.Aditya Bajantri 3. Akula Rajasree 4.Aman Singh
